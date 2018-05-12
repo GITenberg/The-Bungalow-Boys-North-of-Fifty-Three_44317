@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1974
     wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44317#The-Bungalow-Boys-North-of-Fifty-Three
 gutenberg_issued: '2013-11-30'
 gutenberg_type: Text
 identifiers:
